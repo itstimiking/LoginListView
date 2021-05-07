@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FunFacts</string>
+    <string name="emailHint">Email is email@email.com</string>
+    <string name="password_text">Password is password</string>
+    <string name="login">Login</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Your password</string>
+    <string name="language_logo">Language logo</string>
+</resources>
